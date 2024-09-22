@@ -47,12 +47,12 @@
 
 <div align="center">
   
-  [<img alt="Preview do projeto." src=".github/preview.gif" width="80%">](https://sistemagis.vercel.app/)
+  [<img alt="Preview do projeto." src=".github/preview.gif" width="80%">](https://sistemagis.com.br/)
 </div>
 
 <h4 align="center">
   
-  [Ver projeto](https://sistemagis.vercel.app/)
+  [Ver projeto](https://sistemagis.com.br/)
 </h4>
 
 <br>
@@ -77,7 +77,7 @@
  - Visualização de histórico, permitindo uma comparação entre preços passados e atuais
  - Envio de relatórios para o e-mail do usuário ao atingir determinada quantidade de itens faltantes
 
-Você pode acessar o projeto clicando [aqui](https://sistemagis.vercel.app/).
+Você pode acessar o projeto clicando [aqui](https://sistemagis.com.br/).
 
 > **Nota**:
 > O codigo do projeto não está público por se tratar de um freelance
@@ -108,11 +108,11 @@ Para começar, foi construído o design no site no Figma. Durante sua construç�
 
 <div align="center">
   
-  [<img alt="Design no Figma 1/3" src=".github/figma01.png" width="50%">](https://sistemagis.vercel.app/)
+  [<img alt="Design no Figma 1/3" src=".github/figma01.png" width="50%">](https://sistemagis.com.br/)
   
-  [<img alt="Design no Figma 2/3" src=".github/figma02.png" width="50%">](https://sistemagis.vercel.app/)
+  [<img alt="Design no Figma 2/3" src=".github/figma02.png" width="50%">](https://sistemagis.com.br/)
   
-  [<img alt="Design no Figma 3/3" src=".github/figma03.png" width="50%">](https://sistemagis.vercel.app/)
+  [<img alt="Design no Figma 3/3" src=".github/figma03.png" width="50%">](https://sistemagis.com.br/)
 </div>
 
 <a id="tecnologias"></a>
